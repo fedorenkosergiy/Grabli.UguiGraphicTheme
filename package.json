@@ -1,0 +1,25 @@
+{
+  "name": "fedorenkosergiy.grabli.ugui-graphic-theme",
+  "version": "0.0.0",
+  "displayName": "Grabli UGUI Graphic Theme",
+  "description": "Graphic themes core for GameObject based UI in Unity3d",
+  "unity": "2020.3",
+  "unityRelease": "23f1",
+  "keywords": [
+    "UGUI",
+    "Graphic",
+    "Theme",
+    "UI",
+    "Grabli",
+    "UnityEngine"
+  ],
+  "author": {
+    "name": "Serhii Fedorenko",
+    "email": "fedorenkosergiy@gmail.com",
+    "url": "https://example.com"
+  },
+  "dependencies": {
+    "fedorenkosergiy.grabli.labeling": "0.0.0",
+    "com.unity.ugui": "1.0.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Grabli.GraphicTheme.Editor",
+    "rootNamespace": "Grabli.GraphicTheme.Editor",
+    "references": [
+        "GUID:cf51e9c43c3e58543865a760600e0048",
+        "GUID:8b34567c79b24aeda506db988ed02ab0",
+        "GUID:15a350a680cd403689e760bb11489cd6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
